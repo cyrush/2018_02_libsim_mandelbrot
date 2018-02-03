@@ -1,0 +1,7 @@
+*.o
+*trace.txt
+mandelbrot
+mandelbrot_batch
+mandel*amr*.png
+mandel*amr*export*
+path
